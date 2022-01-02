@@ -7,7 +7,7 @@
 
 ## 🛠 Select projects: 
 
-### [Fruit Delivery Website](https://github.com/alexander-eriksson-dev/odin-landing-page)
+### [Landing Page](https://github.com/alexander-eriksson-dev/odin-landing-page)
 Static landing page built from scratch while going through [The Odin Project](https://www.theodinproject.com/) foundations.
 > [Live Demo](https://alexander-eriksson-dev.github.io/odin-landing-page/)
 
