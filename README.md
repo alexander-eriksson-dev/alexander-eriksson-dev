@@ -4,6 +4,7 @@
 ## 📖 Currently: 
 
 - Going through [The Odin Project](https://www.theodinproject.com/)
+- Remote school course "Programmering 1"
 
 ## 🛠 Select projects: 
 
