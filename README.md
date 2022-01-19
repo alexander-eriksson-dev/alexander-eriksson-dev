@@ -3,7 +3,7 @@
 
 ## 📖 Currently: 
 
-- Going through [The Odin Project](https://www.theodinproject.com/)
+- Going through [The Odin Project](https://www.theodinproject.com/) (Foundations 72% @ 19/01/22)
 - Remote school course "Programmering 1"
 
 ## 🛠 Select projects: 
