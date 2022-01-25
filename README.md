@@ -3,15 +3,5 @@
 
 ## 📖 Currently: 
 
-- Going through [The Odin Project](https://www.theodinproject.com/) (Foundations 78% @ 22/01/22)
+- Going through [The Odin Project](https://www.theodinproject.com/) (Foundations 87% @ 25/01/22)
 - Remote school course "Programmering 1"
-
-## 🛠 Select projects: 
-
-### [Landing Page](https://github.com/alexander-eriksson-dev/odin-landing-page)
-Static landing page built from scratch while going through [The Odin Project](https://www.theodinproject.com/) foundations.
-> [Live Demo](https://alexander-eriksson-dev.github.io/odin-landing-page/)
-
-### [Journal App](https://github.com/alexander-eriksson-dev/journal)
-A simple journal app built with Python using Django. 
-> [Live Demo](https://warm-scrubland-19058.herokuapp.com/login?next=/)
