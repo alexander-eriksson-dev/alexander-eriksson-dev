@@ -4,4 +4,4 @@
 ## 📖 Currently: 
 
 - Remote school course "Programmering 1"
-- ~~Going through [The Odin Project](https://www.theodinproject.com/)~~ (100% COMPLETED @ 02/02/22)
+- ~~Going through [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)~~ (100% Completed @ 02/02/22)
