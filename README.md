@@ -3,5 +3,5 @@
 
 ## 📖 Currently: 
 
-- Going through [The Odin Project](https://www.theodinproject.com/) (Foundations 91% @ 30/01/22)
+- Going through [The Odin Project](https://www.theodinproject.com/) (Foundations 93% @ 02/02/22)
 - Remote school course "Programmering 1"
