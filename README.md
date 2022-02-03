@@ -1,4 +1,4 @@
-![alexander-eriksson-dev profile header](https://i.imgur.com/2r8RRrn.png)
+![alexander-eriksson-dev profile header](https://i.imgur.com/9ULLYF0.png)
 **@github/alexander-eriksson-dev**: ✅ *Learning!*
 
 ## 📖 Currently: 
