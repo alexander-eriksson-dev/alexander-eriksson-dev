@@ -3,6 +3,6 @@
 
 ## 📖 Currently: 
 
-- Going through [The Odin Project - Intermediate HTML and CSS Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css/) *( **8%** @ 03/02/22 )*
+- Going through [The Odin Project - Intermediate HTML and CSS Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css/) *( **8%** @ 3 Feb. 2022 )*
 - Remote school course "Programmering 1"
-- ~~Going through [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)~~ *( 🎊 **100%** COMPLETED @ 02/02/22 )*
+- ~~Going through [The Odin Project Foundations HTML,CSS,Javascript](https://www.theodinproject.com/paths/foundations/courses/foundations)~~ *( 🎊 **100%** COMPLETED @ 2 Feb. 2022 )*
