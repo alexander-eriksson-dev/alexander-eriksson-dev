@@ -8,20 +8,12 @@
 
 ## 📑 Favorite projects: 
 
-### Calculator
+# [Calculator](https://github.com/alexander-eriksson-dev/calculator)
 ![Screenshot of Calculator](https://i.imgur.com/Ckq3hOA.png)
 ### [LIVE DEMO](https://alexander-eriksson-dev.github.io/calculator/)
-✅ A simple calculator that supports all basic calculations like add, subtract, multiply, divide and remainder
-✅ Built with HTML, CSS & Javascript using knowledge from the previous lessons (+ a whole lot new)
-✅ Multiple consecutive operations ⨴
-✅ Backspace current input and/or clear all data ⏪
-✅ Keyboard support ⌨
-✅ Beautiful design 😇
-✅ Optimized for mobile screens 📱
+A simple calculator that supports all basic calculations like add, subtract, multiply, divide and remainder
 
-### Rock, Paper, Scissors Game
+# [Rock, Paper, Scissors Game](https://github.com/alexander-eriksson-dev/rock-paper-scissors)
 ![Screenshot of Rock, Paper, Scissors](https://i.imgur.com/CzmoFa4.png)
 ### [LIVE DEMO](https://alexander-eriksson-dev.github.io/rock-paper-scissors/)
-✅ A webpage containing a simple rock, paper, scissors game
-✅ Built using Javascript and CSS knowledge from the previous lessons
-❌ Optimized for smaller screens
+A webpage containing a simple rock, paper, scissors game
